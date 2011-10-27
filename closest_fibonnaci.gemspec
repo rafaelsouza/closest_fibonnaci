@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
+    "closest_fibonnaci.gemspec",
     "lib/closest_fibonnaci.rb",
     "spec/closest_fibonnaci_spec.rb",
     "spec/spec_helper.rb"
